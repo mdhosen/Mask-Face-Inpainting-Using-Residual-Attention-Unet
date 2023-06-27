@@ -1,10 +1,6 @@
 # Mask-Face-Inpainting-Using-Residual-Attention-Unet
 Masked Face Inpainting Through Residual Attention UNet
 
-
-Code is coming soon.
-
-
 ## How to run this project
 Results can be replicated by following those steps:
 
