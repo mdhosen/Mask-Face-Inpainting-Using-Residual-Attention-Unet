@@ -14,7 +14,7 @@ Results can be replicated by following those steps:
 - Download [Labeled Faces in the Wild data](http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz) and unzip its content into _data_ folder or use the "RAU_trian_test" that will download it automatically.
 - You can get better results using larger dataset or dataset with higher quality images. For example [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) contains over 200 000 high quality images. 
 
-### Part of CelebA process data can be download from here: https://drive.google.com/file/d/1SOXKZHRSBRo1OsFE8XNLIDLIhunxz5Gu/view?usp=drive_link
+### Part of CelebA process data can be download from here: (https://drive.google.com/file/d/1SOXKZHRSBRo1OsFE8XNLIDLIhunxz5Gu/view?usp=drive_link)
 
 
 ### Configuration
