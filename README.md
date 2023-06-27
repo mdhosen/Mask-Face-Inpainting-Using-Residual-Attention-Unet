@@ -29,7 +29,7 @@ You can configure the project using the `configuration.json`. Some of the items 
 
 ### Train and test the model
 - Run Jupyter server in the ENV: `RAU_trian_test`
-- Follow instructions in the _mask2face_ notebook
+
 
 ###############################
 Acknowledgment
