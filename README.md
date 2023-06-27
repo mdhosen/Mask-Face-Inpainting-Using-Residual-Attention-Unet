@@ -30,9 +30,7 @@ You can configure the project using the `configuration.json`. Some of the items 
 ### Train and test the model
 - Run Jupyter server in the ENV: `RAU_trian_test`
 
-
-###############################
-###Acknowledgment
+### Acknowledgment
 
 #### This work based on the following blog, please visit the original website ###
 
