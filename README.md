@@ -32,7 +32,7 @@ You can configure the project using the `configuration.json`. Some of the items 
 
 
 ###############################
-Acknowledgment
+###Acknowledgment
 
 #### This work based on the following blog, please visit the original website ###
 
