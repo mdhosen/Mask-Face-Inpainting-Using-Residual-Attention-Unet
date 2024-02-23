@@ -12,7 +12,7 @@ Also I would like to thanks Digital sreeni : https://github.com/bnsreenu
 ###########
 
 Please cite our paper: 
-
+```plaintext
 @inproceedings{hosen2022masked,
   title={Masked Face Inpainting Through Residual Attention UNet},
   author={Hosen, Md Imran and Islam, Md Baharul},
